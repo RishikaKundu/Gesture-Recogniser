@@ -8,7 +8,7 @@ Key tasks include implementing gesture drawing on a canvas using mouse event han
 
 **Things I Learned:**
 
-Capturing and drawing gestures with mouse event handlers.
+*Capturing and drawing gestures with mouse event handlers.
 Using Deques for efficient gesture data storage.
 Applying the $1 Gesture Recognizer steps: resampling, rotation, scaling, and translation.
 Debugging with visual aids and structured tests.
