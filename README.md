@@ -4,7 +4,6 @@ This project involves developing a 2D gesture recognition system using the [$1 G
 
 ![Gesture Recognizer Screenshot](./Gesture-Recogniser-Program/res/screenshot.png)
 
-![Gesture Recognizer Screenshot](./res/screenshot.png)
 Gesture Recogniser Program/res/screenshot.png
 
 Key tasks include implementing gesture drawing on a canvas using mouse event handlers and completing the recognition process by resampling points, rotating gestures to align with the x-axis, scaling to a square, and translating to a common point. The recognition algorithm uses path-distance calculations to match user input with predefined templates. The project emphasizes object-oriented design, data structures, and algorithm implementation.
